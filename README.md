@@ -1,13 +1,12 @@
-# Remove jQuery Migrate Safely #
----
-Contributors: dotlayer
-Tags: remove jquery migrate, disable jquery migrate, pagespeed, jquery migrate, jquery, pageload speed, front end optimizations, website performance
-Requires at least: 3.6
-Tested up to: 4.9
-Requires PHP: 5.6
-Stable tag: trunk
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+# Remove jQuery Migrate Safely 
+  * Contributors: dotlayer
+  * Tags: remove jquery migrate, disable jquery migrate, pagespeed, jquery migrate, jquery, pageload speed, front end optimizations, website  performance 
+  * Requires at least: 3.6
+  * Tested up to: 4.9
+  * Requires PHP: 5.6
+  * Stable tag: trunk
+  * License: GPLv3
+  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Completely removes the jQuery migrate script dependency safely from your WordPress website thereby improving page load speed on the frontend.
 
