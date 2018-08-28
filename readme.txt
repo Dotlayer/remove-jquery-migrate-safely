@@ -10,6 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Completely removes the jQuery migrate script dependency safely from your WordPress website thereby improving page load speed on the frontend.
 
+
 == Description ==
 
 jQuery Migrate is a javascript library that allows you to preserve the compatibility of your jQuery code developed for versions of jQuery older than 1.9. It basically restores deprecated features and behaviors so that older code will still run properly on the current jQuery version and later.
@@ -36,6 +37,12 @@ Please avoid leaving negative reviews in order to get a feature implemented. Ins
 3. Click **Install Now**
 4. Activate the plugin
 5. Done!
+
+
+== Upgrade Notice ==
+1. From your WordPress dashboard, go to **Plugins** > ** jQuery Migrate Safely**
+2. Click **Update Now**
+3. Done!
 
 
 == Changelog ==
